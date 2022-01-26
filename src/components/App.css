@@ -1,0 +1,582 @@
+input::-webkit-input-placeholder {
+  font-size: 1rem;
+}
+
+input[type="color"]:hover {
+  cursor: pointer;
+}
+
+
+ body{
+          background-color: #1F1B1F;
+          color: white;
+          font-family: 'Lato', sans-serif;
+          font-size: 16px;
+      }
+      html {
+        scroll-behavior: smooth;
+      }
+      .btn-launch-app {
+        float: right; 
+        position:relative;
+        top:-25px;
+      }
+
+
+      .card-title {
+        font-family: 'Lato', sans-serif ;
+      }
+
+      .main-navigator-bar { 
+        width: 100vw;
+        background-repeat: no-repeat;
+        background-position: 50%;
+        /* background-size: contain; */
+        background-size: 1440px; 
+        max-width: 1440px;
+        margin: 0 auto;
+        height: 100px;
+        
+        text-decoration: none;
+        text-shadow: 0 2px 4px rgb(0 0 0 / 50%);       
+        margin-top: 0px; 
+        height: 80px;   
+        color: #fff;
+        font-family: 'Koh Santepheap', cursive;
+        font-weight: bold;
+        z-index: 10;
+      }
+
+      .main-navigator-bar a {
+        padding: 12px;
+        color: white;
+        width: 20%; 
+        padding-top: 15px ;        
+      }
+
+
+      .main-logo img {
+        margin-left: 50px;
+        position:relative;
+        top:-10px;
+      }
+
+      @keyframes float {
+        0% {
+          
+          transform: translatey(0px);
+        }
+        50% {
+        
+          transform: translatey(-20px);
+        }
+        100% {
+          
+          transform: translatey(0px);
+        }
+      }
+      
+      .sticky {
+        position: fixed;
+        top: 0;
+        width: 100%;
+        z-index: 99999 !important;
+      }  
+      .btn-buy-llg{
+        width: 300px;
+      }
+      
+      .lucid-main-menu-item {
+        font-size: 18px;   
+        margin-left: 30px;
+        padding-bottom: 20px;
+        position:relative;
+        top:-25px;
+      }
+
+
+      .main-navigator-bar a{ 
+        color: white !important;
+      }
+
+
+      .main-logo {
+        margin-left: 50px;
+        margin-right: 50px;
+        
+      }
+    
+
+      
+      
+      
+      
+
+     
+      .environment img{
+        position: absolute;
+        left: 0;
+        bottom: 0;
+        width:100%;
+        height:100%;
+        object-fit:cover;
+        pointer-events:none;
+        z-index:2;
+      }
+
+      #floating-island {
+        object-fit: cover;
+        width: 100vw;
+        height: 100vh;       
+        top: 0;
+        left: 0; 
+        padding: 0;
+      }
+      .NFT{
+        min-height: 500px;
+        background-color: #E6E6E6;
+        background-image:  url('./images/mintbanner.png');
+        background-repeat: no-repeat;
+        background-position: bottom;   
+        background-size: cover;  
+        margin: 0px;
+        padding: 0px;
+      }
+      .NFT-text {
+        padding-left: 35px; 
+        margin-top: 100px;
+          
+        
+      }
+      
+      .nft3d-thumb {
+          display: block;
+          margin-left: auto;
+          margin-right: auto;
+          cursor: pointer;
+          padding: 3px;;
+          border: solid;
+          border-color:#1f1f1f;
+      }
+      .nft3d-thumb:hover {
+          border: solid;
+          border-color:rgb(1, 149, 255);          
+      }
+      #player3d {
+        min-height: 300px;
+        background-image: url('https://i.pinimg.com/originals/49/db/58/49db58121197c490352b4ab3d978b6b0.gif');
+        background-repeat: no-repeat;
+        background-position: center;        
+      }
+      .mushroom3d-modal-full {
+          min-width: 50%;
+          z-index: 9999;
+      }
+
+      .mushroom3d-modal-full .modal-content {
+        margin-top: 200px;  
+        height: auto;
+      }
+      .modal-header {
+        color: black;
+      }
+
+
+      .dropshadow {
+        -webkit-box-shadow: 0px 10px 13px -7px #000000, 5px 5px 15px 5px rgba(0,0,0,0); 
+        box-shadow: 0px 10px 13px -7px #000000, 5px 5px 15px 5px rgba(0,0,0,0);
+      }
+      .video {
+        -webkit-box-shadow: 0px 10px 13px -7px #000000, 5px 5px 15px 5px rgba(0,0,0,0); 
+        box-shadow: 0px 10px 13px -7px #000000, 5px 5px 15px 5px rgba(0,0,0,0);
+      }
+      .lucid-introduction-section-headline{
+        margin-top: 150px;
+      }
+      .prestige {
+        margin-top: 80px;
+        margin-left: 5px;
+        margin-right: 5px;
+        padding: 15px;        
+        border-radius: 15px;
+        border: solid 3px;
+        border-color: #1689f6;
+        -webkit-box-shadow: 0px 10px 13px -7px #000000, 5px 5px 15px 5px rgba(0,0,0,0); 
+        box-shadow: 0px 10px 13px -7px #000000, 5px 5px 15px 5px rgba(0,0,0,0);
+      }
+      .prestige img {
+        border-radius: 15px;
+      }
+      .prestige img:hover {
+        transform: scale(1.03); 
+        transition: transform .2s; /* Animation */
+        box-shadow: 0 0 1000px rgb(1, 149, 255);
+      }
+      .prestige-thumb {
+        width: 100%;
+        margin-bottom: 100px;
+        cursor:  pointer; 
+      }
+      .prestige-thumb img {
+        padding: 5px;        
+        border-radius: 5px;
+        border: solid 1.5px;
+        border-color: #6e6e6e;
+        margin: 5px;
+        -webkit-box-shadow: 0px 10px 13px -7px #000000, 5px 5px 15px 5px rgba(0,0,0,0); 
+        box-shadow: 0px 10px 13px -7px #000000, 5px 5px 15px 5px rgba(0,0,0,0);
+      }
+      .prestige-thumb img:hover {   
+        border-color: #1689f6;
+      }
+      .tokenomics{
+        min-height: 700px;
+        color: white;
+      }
+      .tokenomics a{
+        color: white;
+      }
+      #heroCarousel {
+        cursor: pointer;
+      }
+
+      .carousel {
+        margin: 1.5rem;
+      }
+      .carousel-inner {
+        height: auto;
+        width: auto;
+      }
+     
+      .carousel-control-prev {
+        margin-left: -100px;
+      }
+
+      .carousel-control-next {
+        margin-right: -100px;
+      } 
+
+      .game-assets:hover {
+        transform: scale(1.3); 
+        transition: transform .2s; /* Animation */
+      }
+      .card-header a{
+        color: #f1ab29;
+        text-decoration: none;
+      }
+      .timeline a {
+        color: #f1ab29;
+      }
+      .timeline-tittle {
+        color: #f1ab29;
+      }
+
+      ul.timeline {
+          list-style-type: none;
+          position: relative;
+      }
+      ul.timeline:before {
+          content: ' ';
+          background: #d4d9df;
+          display: inline-block;
+          position: absolute;
+          left: 29px;
+          width: 2px;
+          height: 100%;
+          z-index: 400;
+      }
+      ul.timeline > li {
+          margin: 20px 0;
+          padding-left: 20px;
+      }
+      ul.timeline > li:before {
+          content: ' ';
+          background: white;
+          display: inline-block;
+          position: absolute;
+          border-radius: 50%;
+          border: 3px solid #9C7E45;
+          left: 20px;
+          width: 20px;
+          height: 20px;
+          z-index: 400;
+      }
+      .coreteam-img{
+        margin-left: 15px;
+      }
+      .coreteam-img:hover {
+        transform: scale(1.3); 
+        transition: transform .2s; /* Animation */
+      }
+
+      .footer-dark {
+          padding: 50px 0;
+          color: #f0f9ff;
+          background-color: #121212
+      }
+
+      .footer-dark h3 {
+          margin-top: 0;
+          margin-bottom: 12px;
+          font-weight: bold;
+          font-size: 16px
+      }
+
+      .footer-dark ul {
+          padding: 0;
+          list-style: none;
+          line-height: 1.6;
+          font-size: 14px;
+          margin-bottom: 0
+      }
+
+      .footer-dark ul a {
+          color: inherit;
+          text-decoration: none;
+          opacity: 0.6
+      }
+
+      .footer-dark ul a:hover {
+          opacity: 0.8
+      }
+
+      @media (max-width:767px) {
+          .footer-dark .item:not(.social) {
+              text-align: center;
+              padding-bottom: 20px
+          }
+          .main-logo {
+            width: 100px;
+          }
+      }
+      @media (max-width:300px) {
+          
+      }
+
+      .footer-dark .item.text {
+          margin-bottom: 36px
+      }
+
+      @media (max-width:767px) {
+          
+          .footer-dark .item.text {
+              margin-bottom: 0
+          }
+      }
+
+      .footer-dark .item.text p {
+          opacity: 0.6;
+          margin-bottom: 0
+      }
+
+      .footer-dark .item.social {
+          text-align: center
+      }
+
+      @media (max-width:991px) {
+          .footer-dark .item.social {
+              text-align: center;
+              margin-top: 20px
+          }
+          
+      }
+      @media (max-width:1440px) {
+          .lucid-main-menu-item{
+                display: none;
+            }
+      }
+
+      
+      .gameplay-header {
+        margin-bottom: 50px; 
+        margin-top: 150px; 
+        margin-left: 20px;
+      }
+      .hero-nav {
+        width: 95%;
+      }
+
+      /* Extra small devices (phones, 600px and down) */
+      @media only screen and (max-width: 600px) {
+        .main-logo img{
+          margin: 0px;
+          width: 120px;
+        } 
+        .lucid-regions{
+          min-height: 320px;
+        }
+        #floating-island {
+          width: 100vw;
+          height: 200px;
+          margin-top: 70px;
+          
+        }
+        .btn-buy-llg{
+          width: 200px;
+        }
+
+        .lucid-introduction-section-headline {
+          margin-top: 30px;
+        }
+        .video-trailer{
+          margin-top: 30px;
+        }
+        .gameplay-header {
+          margin-bottom: 10px; 
+          margin-top: 30px; 
+          margin-left: 0px;
+        }
+        #GAMEPLAY{
+          margin-bottom: 0px;
+        }
+        .section-headline{
+          line-height: normal;
+        }
+        .main-logo{
+          width: 140px;
+          margin: 0;
+          margin-left: 10px;
+        }
+        .btn-launch-app img {
+          float: right;
+          top: 0px;
+          margin-top: 0px;
+          margin-right: 10px;
+          width: 150px;
+          
+        }
+        .lucid-regions{
+          height: 250px;
+          max-height: 300px;
+        }
+        .carousel-control-prev {
+          margin-left: -30px;
+        }
+
+        .carousel-control-next {
+          margin-right: -30px;
+        }
+        .lucid-buy-LLG{
+          margin-top: 0px;
+        }
+        #GAMEPLAY {
+          height: auto;
+          min-height: 1050px;
+        }
+        .hero-showcase{
+          margin: 0px;
+          min-height: 1400px;
+        }
+        #hero-main-img{
+          width: 100%;
+          height: auto;
+          margin: 0xpx;
+          padding: 0px;
+        }
+        
+        .golem-hero-content{
+          margin: 0px;
+        }
+        .lucifer-hero-content{
+          margin: 0px;
+        }
+        .environment{
+          margin: 0px;
+        }
+        .prestige {
+          margin-top: 40px;
+          
+        }
+        #ROADMAP2 {
+          margin: 0px;
+        }
+        .prestige {
+          margin-top: 30px;
+          margin-left: 10px;
+          margin-right: 10px;
+          padding: 15px;        
+          border-radius: 15px;
+          border: solid 3px;
+          border-color: #1689f6;
+          -webkit-box-shadow: 0px 10px 13px -7px #000000, 5px 5px 15px 5px rgba(0,0,0,0); 
+          box-shadow: 0px 10px 13px -7px #000000, 5px 5px 15px 5px rgba(0,0,0,0);
+        }
+        .nft3d-thumb {
+          width: 25%;
+        }
+        .carousel {
+          
+          margin-left: 40px;
+        }
+        .region-icon {
+          width: 80px;
+          margin-left: 0px;
+        }
+        
+        .region-tittle {
+          font-size: 2rem;
+        }
+      }
+
+      /* Small devices (portrait tablets and large phones, 600px and up) */
+      @media only screen and (min-width: 600px) {
+        
+      }
+
+      /* Medium devices (landscape tablets, 768px and up) */
+      @media only screen and (min-width: 768px) {}
+
+      /* Large devices (laptops/desktops, 992px and up) */
+      @media only screen and (min-width: 992px) {}
+
+      /* Extra large devices (large laptops and desktops, 1200px and up) */
+      @media only screen and (min-width: 1200px) {}
+
+
+
+
+      .footer-dark .item.social>a {
+          font-size: 20px;
+          width: 36px;
+          height: 36px;
+          line-height: 36px;
+          display: inline-block;
+          text-align: center;
+          border-radius: 50%;
+          box-shadow: 0 0 0 1px rgba(255, 255, 255, 0.4);
+          margin: 0 8px;
+          color: #fff;
+          opacity: 0.75
+      }
+
+      .footer-dark .item.social>a:hover {
+          opacity: 0.9
+      }
+
+      .footer-dark .copyright {
+          text-align: center;
+          padding-top: 24px;
+          opacity: 0.3;
+          font-size: 13px;
+          margin-bottom: 0
+      }
+
+      #scrollTop {
+        display: none; /* Hidden by default */
+        position: fixed; /* Fixed/sticky position */
+        bottom: 20px; /* Place the button at the bottom of the page */
+        right: 30px; /* Place the button 30px from the right */
+        z-index: 99; /* Make sure it does not overlap */
+        border: none; /* Remove borders */
+        outline: none; /* Remove outline */
+        background-color:#1f1f1f; /* Set a background color */
+        color: white; /* Text color */
+        cursor: pointer; /* Add a mouse pointer on hover */
+        padding: 15px; /* Some padding */
+        border-radius: 10px; /* Rounded corners */
+        font-size: 18px; /* Increase font size */
+      }
+
+      #scrollTop:hover {
+        background-color: #555; /* Add a dark-grey background on hover */
+      }

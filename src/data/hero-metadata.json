@@ -1,0 +1,200 @@
+[
+  {
+    "dna": "c61013abe1f6326ff13e7edddb7f196fe1ce98e9",
+    "name": "Bahamut",
+    "rarity": "Common",
+    "rarity_id": 3,
+    "reward_per_year": 370,
+    "description": "A divine creature in Magiallo turns everyone pale when they the name. Bahamut once swiped out the entire kingdom with the flame that turn everything into ash within a glimpse. Bahamut roams around universes with motives that no one knows, it seems like he is on the quest of searching for something extremely important. It is hard to predict his temperament and Bahamut just seems to be unattached with anything.",
+    "image": "https://gateway.pinata.cloud/ipfs/QmPqkMXNVZ2QSE8yiifC1i7u5f5YPvasFobTJgoPbxgY8R",
+    "edition": 1,
+    "date": 1632385775471,
+    "attributes": [
+      {
+        "trait_type": "Region:",
+        "value": "Magiallo"
+      },
+      {
+        "trait_type": "Hero:",
+        "value": "Common"
+      }
+    ],
+    "compiler": "Lucid Lands Gem"
+  },
+  {
+    "dna": "bfd30319d17ba7db76e016a88952114c929f6410",
+    "name": "Cyberus",
+    "rarity": "Rare",
+    "rarity_id": 2,
+    "reward_per_year": 630,
+    "description": "Look for a fight?, you certainly know who it is. Cyberus is a real hothead and constantly searches for troubles. He is the real fighter in the true sense. Cyberus will never pick the fight that he sure can win. Cyberus looks for uncertainty and takes the risk to challenge anything he sees as stronger than him. Regardless of the result, he becomes more robust.",
+    "image": "https://gateway.pinata.cloud/ipfs/QmZGReeVZMGSH9VyU84ppaA4C6ZX6YvxkJ3AKyxPgb6uHK",
+    "edition": 1,
+    "date": 1632385775471,
+    "attributes": [
+      {
+        "trait_type": "Region:",
+        "value": "Ruxa"
+      },
+      {
+        "trait_type": "Hero:",
+        "value": "Rare"
+      }
+    ],
+    "compiler": "Lucid Lands Gem"
+  },
+  {
+    "dna": "366404ec778e208772e2d91b412122f2e48adceb",
+    "name": "Cyborg",
+    "rarity": "Rare",
+    "rarity_id": 2,
+    "reward_per_year": 530,
+    "description": "The kid was abandoned in the middle of ISO 998. Since he was a little, somehow, KEO502 got lured into electronics and was tech-savvy. He collected electronic scrap in the landfill for a living but he realized a better way to earn it. He soon knew how to assemble the waste components into usable machines and then sell them for the extra margin. His business was profitable enough to make him became the richest person in ISO 998. His wealth, creativity and inventions helped him to rule the entire kingdom. One more thing to mention, KEO502 is narcissistic to the extreme.",
+    "image": "https://gateway.pinata.cloud/ipfs/QmWSw9i7RxycUPwQLLjBnk9tUzPjMJxConT8tkNjHbfWW5",
+    "edition": 1,
+    "date": 1632385775471,
+    "attributes": [
+      {
+        "trait_type": "Region:",
+        "value": "ISO 998"
+      },
+      {
+        "trait_type": "Hero:",
+        "value": "Rare"
+      }
+    ],
+    "compiler": "Lucid Lands Gem"
+  },
+  {
+    "dna": "f83f2a88f184103ab036393254aaa86d2d387000",
+    "name": "Fish????",
+    "rarity": "Epic",
+    "rarity_id": 1,
+    "reward_per_year": 980,
+    "description": "????",
+    "image": "https://gateway.pinata.cloud/ipfs/?????",
+    "edition": 1,
+    "date": 1632385775471,
+    "attributes": [
+      {
+        "trait_type": "Region:",
+        "value": "????"
+      },
+      {
+        "trait_type": "Hero:",
+        "value": "Epic"
+      }
+    ],
+    "compiler": "Lucid Lands Gem"
+  },
+  {
+    "dna": "eff84bc004d0420ba6332875e64ab3548245b834",
+    "name": "Fox????",
+    "rarity": "Legendary",
+    "rarity_id": 0,
+    "reward_per_year": 2000,
+    "description": "????",
+    "image": "https://gateway.pinata.cloud/ipfs/????",
+    "edition": 1,
+    "date": 1632385775471,
+    "attributes": [
+      {
+        "trait_type": "Region:",
+        "value": "????"
+      },
+      {
+        "trait_type": "Hero:",
+        "value": "Legend"
+      }
+    ],
+    "compiler": "Lucid Lands Gem"
+  },
+  {
+    "dna": "e2bd1d4519103b0cd0d77b7c316ed93be3e57131",
+    "name": "Kong",
+    "rarity": "Common",
+    "rarity_id": 3,
+    "reward_per_year": 340,
+    "description": "????",
+    "image": "https://gateway.pinata.cloud/ipfs/???",
+    "edition": 1,
+    "date": 1632385775471,
+    "attributes": [
+      {
+        "trait_type": "Region:",
+        "value": "????"
+      },
+      {
+        "trait_type": "Hero:",
+        "value": "Common"
+      }
+    ],
+    "compiler": "Lucid Lands Gem"
+  },
+  {
+    "dna": "aae3599988240bc9ccc9bef9b9462cb9aabf5bb0",
+    "name": "Lucifer",
+    "rarity": "Epic",
+    "rarity_id": 1,
+    "reward_per_year": 1200,
+    "description": "Living solely in the Inferno Underworld, Lucifer finds joy in deceiving others. That being said, he only plays with your mind yet will never try to physically harm anyone. He will use all the tricks to capture others’ fear and doubt. When successful, the hellfire will burn brighter and ignite his Army of Underworld to defense his colossal kingdom. Lucifer finally giving up on the imperturbable creature where he saw the zen-like quality in them.",
+    "image": "https://gateway.pinata.cloud/ipfs/QmWxQTtvqCKit4uSCJ5comHkqjkfSDpByBACrARmSrAhU3",
+    "edition": 1,
+    "date": 1632385775471,
+    "attributes": [
+      {
+        "trait_type": "Region:",
+        "value": "Inferno"
+      },
+      {
+        "trait_type": "Hero:",
+        "value": "Epic"
+      }
+    ],
+    "compiler": "Lucid Lands Gem"
+  },
+  {
+    "dna": "c9d759304fa9ea5629927d9173a7e4c28a27c2bb",
+    "name": "Medusa",
+    "rarity": "Common",
+    "rarity_id": 3,
+    "reward_per_year": 420,
+    "description": "Medusa, the divine creature, once was the queen of RUXA. She did well at the outset, but she chose the more tempted path toward power and tyranny. Medusa would petrified anythings step in her way or refuse to worship her with the deadly gaze. It was a period of chaos and estrangement under Medusa's divide and conquer tactics. Medusa appeared as the god to save the hopeless creature and take their souls away. They didn't realize how seductive and cunning she was.",
+    "image": "https://gateway.pinata.cloud/ipfs/QmPFAS2miX32QXTx7Kdh3V9diYp12ocUibzUXEw1fqkynw",
+    "edition": 1,
+    "date": 1632385775471,
+    "attributes": [
+      {
+        "trait_type": "Region:",
+        "value": "Ruxa"
+      },
+      {
+        "trait_type": "Hero:",
+        "value": "Common"
+      }
+    ],
+    "compiler": "Lucid Lands Gem"
+  },
+  {
+    "dna": "75ed7470294dc23e6655370a36548099d51431b0",
+    "name": "Talmut",
+    "rarity": "Common",
+    "rarity_id": 3,
+    "reward_per_year": 310,
+    "description": "Talmut can be described in 3 words, meticulous, tireless, and loyal to its master. He got no feeling at all but he was programmed to work that way. Talmut was one of the most profitable and successful projects of KEO502. Never think twice when assigned the task, Talmut jump straight in with the laser focus even if it means sacrificing for the boss.",
+    "image": "https://gateway.pinata.cloud/ipfs/QmUhDtcJUEin3mnj834JFVHmXuaVxeNtShoVaBVuqQ7pEF",
+    "edition": 1,
+    "date": 1632385775471,
+    "attributes": [
+      {
+        "trait_type": "Region:",
+        "value": "ISO 998"
+      },
+      {
+        "trait_type": "Hero:",
+        "value": "Common"
+      }
+    ],
+    "compiler": "Lucid Lands Gem"
+  }
+]
