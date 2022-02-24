@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/graphic-nft-market/precache-manifest.c7024b90635cc37af61c69bc92b5cb4c.js"
+  "/nft-staking/precache-manifest.3e33a8e31c1789f02dfc3bc757186479.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/graphic-nft-market/index.html", {
+workbox.routing.registerNavigationRoute("/nft-staking/index.html", {
   
   blacklist: [/^\/_/,/\/[^/]+\.[^/]+$/],
 });
